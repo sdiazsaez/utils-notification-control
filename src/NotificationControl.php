@@ -2,8 +2,8 @@
 
 namespace Cosmoscript\NotificationControl;
 
-class NotificationControl
-{
+class NotificationControl {
+    
     protected static bool $disabled = false;
 
     public static function disable(): void
