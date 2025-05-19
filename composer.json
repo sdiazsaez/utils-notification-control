@@ -1,0 +1,19 @@
+{
+  "name": "cosmoscript/notification-control",
+  "description": "Notification control",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Simon Diaz",
+      "email": "sdiaz.sz@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Cosmoscript\\NotificationControl\\": "./src"
+    }
+  }
+}
